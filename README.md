@@ -1,3 +1,8 @@
+2023/01/31　関連動画の取得まで
+
+![スクリーンショット 2023-01-31 23 36 09](https://user-images.githubusercontent.com/3797539/215790026-f4226610-a831-4012-9398-b0d9b649d37b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
