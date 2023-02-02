@@ -4,7 +4,7 @@
 ## jazz検索結果
 ![screencapture-localhost-3001-search-2023-02-03-05_20_09](https://user-images.githubusercontent.com/3797539/216441233-e4e615fc-82c4-43d3-a097-ed3b003b02aa.png)
 
-## 動画ページ遷移後
+## 動画ページ遷移後（動画詳細情報のリンク、関連動画の取得表示）
 ![screencapture-localhost-3001-watch-2023-02-03-05_20_24](https://user-images.githubusercontent.com/3797539/216441225-0b7b62c3-efc1-483d-8cf6-d9cd9ced6b0e.png)
 
 ## 横幅変更
