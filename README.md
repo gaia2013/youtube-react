@@ -1,5 +1,13 @@
-2023/01/31　関連動画の取得まで
+## TOPページ
+![screencapture-localhost-3001-2023-02-03-05_19_56](https://user-images.githubusercontent.com/3797539/216441238-52369300-f6ec-40e0-a019-8224713a7cd2.png)
 
+## jazz検索結果
+![screencapture-localhost-3001-search-2023-02-03-05_20_09](https://user-images.githubusercontent.com/3797539/216441233-e4e615fc-82c4-43d3-a097-ed3b003b02aa.png)
+
+## 動画ページ遷移後
+![screencapture-localhost-3001-watch-2023-02-03-05_20_24](https://user-images.githubusercontent.com/3797539/216441225-0b7b62c3-efc1-483d-8cf6-d9cd9ced6b0e.png)
+
+## 横幅変更
 ![スクリーンショット 2023-01-31 23 36 09](https://user-images.githubusercontent.com/3797539/215790026-f4226610-a831-4012-9398-b0d9b649d37b.png)
 
 
